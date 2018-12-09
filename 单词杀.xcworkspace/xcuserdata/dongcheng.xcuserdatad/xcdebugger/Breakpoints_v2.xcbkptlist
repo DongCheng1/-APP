@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5355;&#x8bcd;&#x6740;/LookWaysViewController.m"
+            timestampString = "565897508.003756"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LookWaysViewController viewDidLoad]"
+                  moduleName = "&#x5355;&#x8bcd;&#x6740;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dongcheng/Desktop/Project%20collection/%E5%8D%95%E8%AF%8D%E6%9D%80/%E5%8D%95%E8%AF%8D%E6%9D%80/LookWaysViewController.m"
+                  timestampString = "565799204.966954"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "443">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__37-[LookWaysViewController viewDidLoad]_block_invoke"
+                  moduleName = "&#x5355;&#x8bcd;&#x6740;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dongcheng/Desktop/Project%20collection/%E5%8D%95%E8%AF%8D%E6%9D%80/%E5%8D%95%E8%AF%8D%E6%9D%80/LookWaysViewController.m"
+                  timestampString = "565799204.9698941"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "82">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5355;&#x8bcd;&#x6740;/LookWaysViewController.m"
+            timestampString = "565897508.0039361"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
